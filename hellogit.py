@@ -1,4 +1,2 @@
-print("hello")
+print("hello new ")
 
-
-print("como va?")
